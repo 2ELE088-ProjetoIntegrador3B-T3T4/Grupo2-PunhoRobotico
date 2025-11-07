@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Página-1" id="mS0fS8Ldl9N50KXqLKzZ">
+    <mxGraphModel dx="1869" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_OjO_ygOuvTSwO1XYtXc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-90" width="1010" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="310" y="170" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000093;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="79.5" as="sourcePoint" />
+            <mxPoint x="290" y="79.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-7" value="INICIO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-8" value="USÚARIO CONTRAI O MUSCULO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#660000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="310" y="300" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-12" value="SENSOR" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-13" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.5" y="240" as="sourcePoint" />
+            <mxPoint x="374.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="325" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-18" value="STM32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373.5" y="430" as="sourcePoint" />
+            <mxPoint x="373.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="110" y="455" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="489.5" as="sourcePoint" />
+            <mxPoint x="250" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-25" value="MOTOR" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="145" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="510" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#103A02;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="515" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GXT2AWqDIJYDxRNO9qAX-32" value="LED ACENDE" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="515" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_OjO_ygOuvTSwO1XYtXc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="45" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_OjO_ygOuvTSwO1XYtXc-2" value="LÊ A TENSÃO NO POTENCIÔMETRO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_OjO_ygOuvTSwO1XYtXc-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.5" y="115" as="sourcePoint" />
+            <mxPoint x="374.5" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
